@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -32,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
