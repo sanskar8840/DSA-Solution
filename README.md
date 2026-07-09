@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
