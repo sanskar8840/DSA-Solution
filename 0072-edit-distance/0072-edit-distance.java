@@ -3,7 +3,7 @@ class Solution {
         if(i==-1) return j+1;
         if(j==-1) return i+1;
         if(dp[i][j]!=-1) return dp[i][j];
-        if(a.charAt(i)==b.charAt(j)) return helper(i-1,j-1,a,b,dp);
+        if(a.charAt(i)==b.charAt(j)) return dp[i][j]=helper(i-1,j-1,a,b,dp);
         else{
             int de=helper(i-1,j,a,b,dp);
             int insert= helper(i,j-1,a,b,dp);
