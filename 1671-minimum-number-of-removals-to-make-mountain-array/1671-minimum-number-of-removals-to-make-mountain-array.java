@@ -21,7 +21,6 @@ class Solution {
         }
     }
     public int minimumMountainRemovals(int[] nums) {
-        // if(nums.length<=3) return 0;
         int [] dp1=new int[nums.length];
         int [] dp2=new int[nums.length];
         helper1(nums,dp1); 
