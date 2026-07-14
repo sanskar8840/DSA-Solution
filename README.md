@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanskar8840/DSA-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
@@ -96,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sanskar8840/DSA-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sanskar8840/DSA-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -110,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sanskar8840/DSA-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
