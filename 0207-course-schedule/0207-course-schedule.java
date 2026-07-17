@@ -8,15 +8,15 @@ class Solution {
         // makr in deagree array
         int[] indegree = new int[numCourses];
         for (int i = 0; i < prerequisites.length; i++) {
-            // int a=prerequisites[i][1];  // a->b
-            // int b = prerequisites[i][0];
-            // list.get(b).add(a);
-            // indegree[b]++;
-            int a = prerequisites[i][0];
-            int b = prerequisites[i][1];
+            int a=prerequisites[i][1];  // a->b
+            int b = prerequisites[i][0];
+            list.get(a).add(b);
+            indegree[b]++;
+            // int a = prerequisites[i][0];
+            // int b = prerequisites[i][1];
 
-            list.get(b).add(a);
-            indegree[a]++;
+            // list.get(b).add(a);
+            // indegree[a]++;
         }
 
         int count = 0;
