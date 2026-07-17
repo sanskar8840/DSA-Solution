@@ -1,20 +1,15 @@
 class Solution {
-
     public class pair implements Comparable<pair> {
         int node;
         double prob;
-
         pair(int node, double prob) {
             this.node = node;
             this.prob = prob;
-
         }
-
         public int compareTo(pair p) {
             return Double.compare(p.prob, this.prob);
         }
     }
-
     public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
 
         ArrayList<ArrayList<pair>> list = new ArrayList<>();
@@ -44,7 +39,6 @@ class Solution {
                 }
             }
         }
-
         return ans[end_node];
 
     }
