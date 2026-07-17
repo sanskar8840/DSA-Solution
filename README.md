@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sanskar8840/DSA-Solution/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanskar8840/DSA-Solution/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sanskar8840/DSA-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sanskar8840/DSA-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sanskar8840/DSA-Solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanskar8840/DSA-Solution/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sanskar8840/DSA-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sanskar8840/DSA-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sanskar8840/DSA-Solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanskar8840/DSA-Solution/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sanskar8840/DSA-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
@@ -137,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sanskar8840/DSA-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sanskar8840/DSA-Solution/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sanskar8840/DSA-Solution/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
