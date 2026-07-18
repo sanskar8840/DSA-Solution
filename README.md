@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sanskar8840/DSA-Solution/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sanskar8840/DSA-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1092-shortest-common-supersequence](https://github.com/sanskar8840/DSA-Solution/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sanskar8840/DSA-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanskar8840/DSA-Solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sanskar8840/DSA-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sanskar8840/DSA-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/sanskar8840/DSA-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanskar8840/DSA-Solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sanskar8840/DSA-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sanskar8840/DSA-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/sanskar8840/DSA-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanskar8840/DSA-Solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanskar8840/DSA-Solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sanskar8840/DSA-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sanskar8840/DSA-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/sanskar8840/DSA-Solution/tree/master/1514-path-with-maximum-probability) |
@@ -154,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sanskar8840/DSA-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sanskar8840/DSA-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sanskar8840/DSA-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sanskar8840/DSA-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sanskar8840/DSA-Solution/tree/master/1514-path-with-maximum-probability) |
 ## Number Theory
 |  |
