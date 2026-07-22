@@ -20,7 +20,7 @@ class Solution {
                     while(i>0  && i<j &&  nums[i]==nums[i-1]) i++;
                     while(j<nums.length-1  && i<j &&  nums[j]==nums[j+1]) j--;
                 }
-              else  if(sum>0){
+              else if(sum>0){
                     j--;
                 }
                 else{
