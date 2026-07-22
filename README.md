@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1514-path-with-maximum-probability](https://github.com/sanskar8840/DSA-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sanskar8840/DSA-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sanskar8840/DSA-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/sanskar8840/DSA-Solution/tree/master/0647-palindromic-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
