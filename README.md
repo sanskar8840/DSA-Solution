@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanskar8840/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sanskar8840/DSA-Solution/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/sanskar8840/DSA-Solution/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/sanskar8840/DSA-Solution/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanskar8840/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sanskar8840/DSA-Solution/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sanskar8840/DSA-Solution/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sanskar8840/DSA-Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
