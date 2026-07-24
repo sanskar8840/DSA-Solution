@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sanskar8840/DSA-Solution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1514-path-with-maximum-probability](https://github.com/sanskar8840/DSA-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sanskar8840/DSA-Solution/tree/master/1584-min-cost-to-connect-all-points) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sanskar8840/DSA-Solution/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanskar8840/DSA-Solution/tree/master/0141-linked-list-cycle) |
+| [0904-fruit-into-baskets](https://github.com/sanskar8840/DSA-Solution/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
