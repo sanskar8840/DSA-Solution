@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanskar8840/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sanskar8840/DSA-Solution/tree/master/0904-fruit-into-baskets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanskar8840/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/sanskar8840/DSA-Solution/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sanskar8840/DSA-Solution/tree/master/0647-palindromic-substrings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanskar8840/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sanskar8840/DSA-Solution/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/sanskar8840/DSA-Solution/tree/master/0904-fruit-into-baskets) |
 ## Linked List
