@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sanskar8840/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanskar8840/DSA-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/sanskar8840/DSA-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanskar8840/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sanskar8840/DSA-Solution/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/sanskar8840/DSA-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
