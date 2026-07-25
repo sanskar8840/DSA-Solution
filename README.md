@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanskar8840/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sanskar8840/DSA-Solution/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/sanskar8840/DSA-Solution/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sanskar8840/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0516-longest-palindromic-subsequence) |
