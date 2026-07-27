@@ -1,20 +1,27 @@
 class Solution {
-
     public int subarraySum(int[] nums, int k) {
-        int max=0;
-        int sum;
-
-        for(int i=0;i<nums.length;i++){
-            sum=0; 
-            for(int j=i;j<nums.length;j++){
-                sum=sum+nums[j];
-                if(sum==k){
-                    max++;
-                   // break;
-                }
+        int count=0;
+        int n=nums.length;
+        HashMap<Integer,Integer> mp=new HashMap<>();
+        mp.put(0,1);
+        int prifix=0;
+        for(int i=0;i<n;i++){
+            prifix=prifix+nums[i];
+            if(mp.containsKey(prifix-k)){
+                int freq=mp.get(prifix-k);
+                count=count+freq;
             }
+             if(mp.containsKey(prifix)){
+                int freq=mp.get(prifix);
+                mp.put(prifix,freq+1);
+            }else{
+                mp.put(prifix,1);
+
+            }
+
+
         }
-        return max;
+        return count;
         
     }
 }
