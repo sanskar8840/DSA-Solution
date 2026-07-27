@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/sanskar8840/DSA-Solution/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/sanskar8840/DSA-Solution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskar8840/DSA-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/sanskar8840/DSA-Solution/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskar8840/DSA-Solution/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
