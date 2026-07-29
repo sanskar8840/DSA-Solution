@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sanskar8840/DSA-Solution/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/sanskar8840/DSA-Solution/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskar8840/DSA-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1514-path-with-maximum-probability](https://github.com/sanskar8840/DSA-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sanskar8840/DSA-Solution/tree/master/1584-min-cost-to-connect-all-points) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanskar8840/DSA-Solution/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/sanskar8840/DSA-Solution/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/sanskar8840/DSA-Solution/tree/master/0986-interval-list-intersections) |
 ## Math
 |  |
 | ------- |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sanskar8840/DSA-Solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/sanskar8840/DSA-Solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sanskar8840/DSA-Solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/sanskar8840/DSA-Solution/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
