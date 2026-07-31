@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanskar8840/DSA-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sanskar8840/DSA-Solution/tree/master/1514-path-with-maximum-probability) |
@@ -225,12 +227,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanskar8840/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sanskar8840/DSA-Solution/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanskar8840/DSA-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/sanskar8840/DSA-Solution/tree/master/0986-interval-list-intersections) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
