@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sanskar8840/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sanskar8840/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanskar8840/DSA-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sanskar8840/DSA-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sanskar8840/DSA-Solution/tree/master/0841-keys-and-rooms) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sanskar8840/DSA-Solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/sanskar8840/DSA-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sanskar8840/DSA-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
