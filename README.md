@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sanskar8840/DSA-Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanskar8840/DSA-Solution/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/sanskar8840/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [1486-xor-operation-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanskar8840/DSA-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanskar8840/DSA-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search Tree
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sanskar8840/DSA-Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sanskar8840/DSA-Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanskar8840/DSA-Solution/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sanskar8840/DSA-Solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
