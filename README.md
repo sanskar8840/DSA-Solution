@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sanskar8840/DSA-Solution/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0861-score-after-flipping-matrix](https://github.com/sanskar8840/DSA-Solution/tree/master/0861-score-after-flipping-matrix) |
 | [0904-fruit-into-baskets](https://github.com/sanskar8840/DSA-Solution/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/sanskar8840/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/sanskar8840/DSA-Solution/tree/master/0861-score-after-flipping-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanskar8840/DSA-Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Breadth-First Search
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
+| [0861-score-after-flipping-matrix](https://github.com/sanskar8840/DSA-Solution/tree/master/0861-score-after-flipping-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sanskar8840/DSA-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sanskar8840/DSA-Solution/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sanskar8840/DSA-Solution/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/sanskar8840/DSA-Solution/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/sanskar8840/DSA-Solution/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sanskar8840/DSA-Solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
