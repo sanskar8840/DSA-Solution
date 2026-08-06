@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/sanskar8840/DSA-Solution/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/sanskar8840/DSA-Solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sanskar8840/DSA-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sanskar8840/DSA-Solution/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sanskar8840/DSA-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sanskar8840/DSA-Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sanskar8840/DSA-Solution/tree/master/0231-power-of-two) |
