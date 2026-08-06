@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/sanskar8840/DSA-Solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanskar8840/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sanskar8840/DSA-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sanskar8840/DSA-Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sanskar8840/DSA-Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanskar8840/DSA-Solution/tree/master/0342-power-of-four) |
 ## Recursion
