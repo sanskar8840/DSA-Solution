@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/sanskar8840/DSA-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sanskar8840/DSA-Solution/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sanskar8840/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/sanskar8840/DSA-Solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0509-fibonacci-number) |
