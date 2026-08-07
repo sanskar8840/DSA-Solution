@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sanskar8840/DSA-Solution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/sanskar8840/DSA-Solution/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/sanskar8840/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0152-maximum-product-subarray) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sanskar8840/DSA-Solution/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/sanskar8840/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/sanskar8840/DSA-Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanskar8840/DSA-Solution/tree/master/0342-power-of-four) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sanskar8840/DSA-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
