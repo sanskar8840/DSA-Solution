@@ -381,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/sanskar8840/DSA-Solution/tree/master/2553-separate-the-digits-in-an-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
