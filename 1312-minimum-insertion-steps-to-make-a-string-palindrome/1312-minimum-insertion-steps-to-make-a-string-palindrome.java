@@ -1,33 +1,31 @@
 class Solution {
-    public int helper(int n, int m, StringBuilder a, StringBuilder b, int[][] dp) {
-        if (n < 0 || m < 0)
-            return 0;
-        if (dp[n][m] != -1)
-            return dp[n][m];
-        if (a.charAt(n) == b.charAt(m)) {
-            return dp[n][m] = 1 + helper(n - 1, m - 1, a, b, dp);
-        } else {
-            return dp[n][m] = Math.max(helper(n - 1, m, a, b, dp), helper(n, m - 1, a, b, dp));
+     public int helper(int n,int m,StringBuilder t1,StringBuilder t2,int[][] dp){
+        if(n<0 ||m<0) return 0;
+        if(dp[n][m]!=-1) return dp[n][m];
+        if(t1.charAt(n)==t2.charAt(m)){
+            return dp[n][m]= 1+helper(n-1,m-1,t1,t2,dp);
+        }else{
+            return dp[n][m]= Math.max(helper(n-1,m,t1,t2,dp),helper(n,m-1,t1,t2,dp));
         }
     }
-
     public int longestPalindromeSubseq(String s) {
-        StringBuilder a = new StringBuilder(s);
-        StringBuilder b = new StringBuilder(s).reverse();
-        int n = a.length();
-        int m = b.length();
-        int[][] dp = new int[n][m];
-        for (int i = 0; i < dp.length; i++) {
-            for (int j = 0; j < dp[0].length; j++) {
-                dp[i][j] = -1;
+        StringBuilder t1=new StringBuilder(s);
+        StringBuilder t2=new StringBuilder(s);
+        t2.reverse();
+        int n=s.length();
+        int m=s.length();
+        int [][] dp= new int[n][m];
+        for(int i=0;i<dp.length;i++){
+            for(int j=0;j<dp[0].length;j++){
+                dp[i][j]=-1;
             }
         }
-        return helper(n - 1, m - 1, a, b, dp);
+        return helper(n-1,m-1,t1,t2,dp);
+        
     }
-
     public int minInsertions(String s) {
-        int ans =longestPalindromeSubseq(s);
-        return s.length()-ans;
-
+       int n= longestPalindromeSubseq( s);
+       return s.length()-n;
+        
     }
 }
