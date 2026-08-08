@@ -1,30 +1,40 @@
 class Solution {
-    public void bfs(int i,boolean [] visted,int[][] isConnected){
+    public void helper(ArrayList<ArrayList<Integer>> adj,boolean[] visted,int i ){
         Queue<Integer> q=new LinkedList<>();
         q.add(i);
         visted[i]=true;
         while(q.size()>0){
-            int Front= q.remove();
-            for(int j=0;j<isConnected.length;j++){
-                if(isConnected[Front][j]==1 && visted[j]==false ){
-                    q.add(j);
-                    visted[j]=true;
-                }
+            int front=q.remove();
+            for(int ele : adj.get(front)){
+                if(visted[ele]== true) continue;
+                q.add(ele);
+                visted[ele]=true;
             }
         }
     }
-
-
     public int findCircleNum(int[][] isConnected) {
-        boolean [] visted=new boolean[isConnected.length];
-        int count=0;
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
         for(int i=0;i<isConnected.length;i++){
-            if(visted[i]==false){
-                count++;
-                bfs(i,visted,isConnected);
-                
+            ArrayList<Integer> list = new ArrayList<>();
+            for(int j=0;j<isConnected[0].length;j++){
+                if(isConnected[i][j]==1 && i!=j){
+                    list.add(j);
+                }
             }
+            adj.add(list);
         }
-        return count;
+    boolean[] visted=new boolean[isConnected.length];
+    int count=0;
+    
+    for(int i=0;i<visted.length;i++){
+        if(visted[i]==false){
+            count++;
+            helper(adj,visted,i);
+        }
+    }
+    return count;
+
+
+        
     }
 }
