@@ -31,9 +31,9 @@ class Solution {
             int i=top.row;
             int j=top.col;
             int cost=top.cost;
-            if(i==heights.length-1  && j==heights[0].length){
-              return  ans[heights.length-1][heights[0].length-1];
-            }
+            // if(i==heights.length-1  && j==heights[0].length){
+            //   return  ans[heights.length-1][heights[0].length-1];
+            // }
             // right
             if(j+1<heights[0].length){
                 int time=Math.abs(heights[i][j]-heights[i][j+1]);
