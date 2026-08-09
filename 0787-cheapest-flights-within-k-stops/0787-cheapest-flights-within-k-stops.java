@@ -44,7 +44,7 @@ class Solution {
                 int b2 = ele.dist;
                 int c2 = ele.count;
                 int total = b + b2;
-                if (total < ans[a2] && c + 1 <= k + 1) {
+                if (total < ans[a2] && c  <= k ) {
                     ans[a2] = total;
                     pq.add(new pair(a2, b + b2, c + 1));
                 }
