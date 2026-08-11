@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanskar8840/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sanskar8840/DSA-Solution/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sanskar8840/DSA-Solution/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanskar8840/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanskar8840/DSA-Solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanskar8840/DSA-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/sanskar8840/DSA-Solution/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/sanskar8840/DSA-Solution/tree/master/1631-path-with-minimum-effort) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sanskar8840/DSA-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
