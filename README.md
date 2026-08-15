@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/sanskar8840/DSA-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sanskar8840/DSA-Solution/tree/master/0078-subsets) |
+| [0134-gas-station](https://github.com/sanskar8840/DSA-Solution/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/sanskar8840/DSA-Solution/tree/master/0134-gas-station) |
 | [0861-score-after-flipping-matrix](https://github.com/sanskar8840/DSA-Solution/tree/master/0861-score-after-flipping-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanskar8840/DSA-Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Breadth-First Search
