@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sanskar8840/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sanskar8840/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/sanskar8840/DSA-Solution/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sanskar8840/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sanskar8840/DSA-Solution/tree/master/0658-find-k-closest-elements) |
