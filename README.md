@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanskar8840/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/sanskar8840/DSA-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/sanskar8840/DSA-Solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sanskar8840/DSA-Solution/tree/master/0063-unique-paths-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sanskar8840/DSA-Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sanskar8840/DSA-Solution/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/sanskar8840/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0189-rotate-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sanskar8840/DSA-Solution/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sanskar8840/DSA-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/sanskar8840/DSA-Solution/tree/master/0200-number-of-islands) |
