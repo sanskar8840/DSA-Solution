@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sanskar8840/DSA-Solution/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/sanskar8840/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sanskar8840/DSA-Solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sanskar8840/DSA-Solution/tree/master/0063-unique-paths-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanskar8840/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/sanskar8840/DSA-Solution/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/sanskar8840/DSA-Solution/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sanskar8840/DSA-Solution/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanskar8840/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sanskar8840/DSA-Solution/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/sanskar8840/DSA-Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanskar8840/DSA-Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sanskar8840/DSA-Solution/tree/master/0509-fibonacci-number) |
