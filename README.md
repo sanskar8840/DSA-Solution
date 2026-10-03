@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sanskar8840/DSA-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanskar8840/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanskar8840/DSA-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanskar8840/DSA-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanskar8840/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanskar8840/DSA-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanskar8840/DSA-Solution/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/sanskar8840/DSA-Solution/tree/master/0134-gas-station) |
 | [0861-score-after-flipping-matrix](https://github.com/sanskar8840/DSA-Solution/tree/master/0861-score-after-flipping-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanskar8840/DSA-Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
